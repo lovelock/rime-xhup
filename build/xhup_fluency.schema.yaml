@@ -2,7 +2,7 @@ __build_info:
   rime_version: 1.7.3
   timestamps:
     default: 1613228859
-    default.custom: 1663168663
+    default.custom: 1663205231
     key_bindings: 1613228859
     key_bindings.custom: 0
     punctuation: 1613228859
@@ -10,7 +10,7 @@ __build_info:
     symbols: 1613228859
     symbols.custom: 0
     xhup_fluency.custom: 0
-    xhup_fluency.schema: 1663168629
+    xhup_fluency.schema: 1663205231
 engine:
   filters:
     - simplifier
