@@ -2,7 +2,7 @@ __build_info:
   rime_version: 1.7.3
   timestamps:
     default: 1613228859
-    default.custom: 1663168663
+    default.custom: 1663494013
     key_bindings: 1613228859
     key_bindings.custom: 0
     punctuation: 1613228859
@@ -97,9 +97,6 @@ recognizer:
     url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$"
 schema_list:
   - schema: flypy
-  - schema: xhup
-  - schema: xhup_express
-  - schema: xhup_fluency
 switcher:
   abbreviate_options: true
   caption: "〔方案選單〕"

@@ -1,7 +1,8 @@
 var:
-  last_build_time: 1663168924
-  previously_selected_schema: flypy
+  last_build_time: 1663494032
+  previously_selected_schema: double_pinyin_flypy
   schema_access_time:
+    double_pinyin_flypy: 1663493159
     flypy: 1663168972
     xhup_express: 1663168674
     xhup_fluency: 1663168698
