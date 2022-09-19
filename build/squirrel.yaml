@@ -2,7 +2,7 @@ __build_info:
   rime_version: 1.7.3
   timestamps:
     squirrel: 1663205231
-    squirrel.custom: 1663205724
+    squirrel.custom: 1663562061
 app_options:
   com.apple.Spotlight:
     ascii_mode: true
