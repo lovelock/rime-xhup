@@ -2,7 +2,7 @@ __build_info:
   rime_version: 1.7.3
   timestamps:
     squirrel: 1663205231
-    squirrel.custom: 1663859996
+    squirrel.custom: 1664076298
 app_options:
   com.apple.Spotlight:
     ascii_mode: true
@@ -103,7 +103,7 @@ preset_color_schemes:
     comment_text_color: 0x999999
     corner_radius: 5
     font_face: PingFangSC
-    font_point: 16
+    font_point: 28
     hilited_back_color: 0xD75A00
     hilited_candidate_label_color: 0xFFFFFF
     hilited_candidate_text_color: 0xFFFFFF
@@ -112,7 +112,7 @@ preset_color_schemes:
     hilited_text_color: 0x999999
     horizontal: true
     label_color: 0x999999
-    label_font_point: 13
+    label_font_point: 24
     line_spacing: 10
     name: "Mac深色"
     text_color: 0x424242
@@ -126,7 +126,7 @@ preset_color_schemes:
     comment_text_color: 0x999999
     corner_radius: 5
     font_face: PingFangSC
-    font_point: 24
+    font_point: 28
     hilited_candidate_back_color: 0x32A14C
     hilited_candidate_label_color: 0xFFFFFF
     hilited_candidate_text_color: 0xFFFFFF
@@ -135,7 +135,7 @@ preset_color_schemes:
     hilited_text_color: 0x999999
     horizontal: true
     label_color: 0x999999
-    label_font_point: 20
+    label_font_point: 24
     line_spacing: 10
     name: "Mac绿"
     text_color: 0x424242
@@ -149,7 +149,7 @@ preset_color_schemes:
     comment_text_color: 0x999999
     corner_radius: 5
     font_face: PingFangSC
-    font_point: 16
+    font_point: 28
     hilited_back_color: 0xD75A00
     hilited_candidate_label_color: 0xFFFFFF
     hilited_candidate_text_color: 0xFFFFFF
@@ -158,7 +158,7 @@ preset_color_schemes:
     hilited_text_color: 0x999999
     horizontal: false
     label_color: 0x999999
-    label_font_point: 13
+    label_font_point: 24
     line_spacing: 10
     name: "Mac浅色"
     text_color: 0x424242
@@ -207,13 +207,13 @@ preset_color_schemes:
     candidate_text_color: 0xF5D887
     comment_text_color: 0xE6B687
     corner_radius: 5
-    font_point: 16
+    font_point: 28
     hilited_back_color: 0x473A33
     hilited_candidate_back_color: 0x5D4C43
     hilited_candidate_text_color: 0xC0E077
     hilited_text_color: 0x6EC8F5
     horizontal: true
-    label_font_point: 14
+    label_font_point: 24
     line_spacing: 10
     name: "北方深色"
     text_color: 0x78E8F0
@@ -241,7 +241,7 @@ preset_color_schemes:
     comment_text_color: 0x808080
     corner_radius: 5
     font_face: "PingFangSC-Regular,HanaMinB"
-    font_point: 16
+    font_point: 28
     hilited_back_color: 0x444444
     hilited_candidate_back_color: 0xd4bc00
     hilited_candidate_label_color: 0xfafafa
@@ -249,7 +249,7 @@ preset_color_schemes:
     hilited_comment_text_color: 0x444444
     hilited_text_color: 0xeeeeee
     horizontal: true
-    label_font_point: 14
+    label_font_point: 24
     line_spacing: 10
     name: "幽能"
     text_color: 0xc2c2c2
@@ -358,7 +358,7 @@ show_notifications_when: appropriate
 style:
   border_height: 0
   border_width: 0
-  color_scheme: mac_green
+  color_scheme: nord_dark
   comment_font_point: 18
   corner_radius: 10
   font_face: "Lucida Grande"

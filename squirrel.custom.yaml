@@ -4,7 +4,7 @@ patch:
   # 皮肤主题名称输入在下方，开启去掉前面#
   #style/color_scheme: mac_light
   #style/color_scheme: mac_dark
-  style/color_scheme: mac_green
+  #style/color_scheme: mac_green
   #style/color_scheme: mac_orange
   #style/color_scheme: mac_blue
   #style/color_scheme: psionics
@@ -18,7 +18,7 @@ patch:
   #style/color_scheme: purity
   #style/color_scheme: starcraft
   #style/color_scheme: nord_light
-  #style/color_scheme: nord_dark
+  style/color_scheme: nord_dark
 
   # 皮肤主题
   preset_color_schemes:
@@ -33,8 +33,8 @@ patch:
       border_height: 4                             # 窗口上下高度，大于圆角半径才生效
       border_width: 4                              # 窗口左右宽度，大于圆角半径才生效
       font_face: "PingFangSC"                      # 候选词字体
-      font_point: 16                               # 候选字大小
-      label_font_point: 13                         # 候选编号大小
+      font_point: 28                               # 候选字大小
+      label_font_point: 24                         # 候选编号大小
       text_color: 0x424242                    # 拼音行文字颜色
       back_color: 0xFFFFFF                    # 候选条背景色
       border_color: 0xFFFFFF                  # 边框色
@@ -57,8 +57,8 @@ patch:
       border_height: 4                             # 窗口上下高度，大于圆角半径才生效
       border_width: 4                              # 窗口左右宽度，大于圆角半径才生效 
       font_face: "PingFangSC"                      # 候选词字体
-      font_point: 16                               # 候选字大小
-      label_font_point: 13                         # 候选编号大小
+      font_point: 28                               # 候选字大小
+      label_font_point: 24                         # 候选编号大小
       text_color: 0x424242                    # 拼音行文字颜色
       back_color: 0x252a2e                    # 候选条背景色
       border_color: 0x050505                  # 边框色
@@ -82,8 +82,8 @@ patch:
       border_height: 4                             # 窗口上下高度，大于圆角半径才生效
       border_width: 4                              # 窗口左右宽度，大于圆角半径才生效
       font_face: "PingFangSC"                      # 候选词字体
-      font_point:  24                             # 候选字大小
-      label_font_point: 20                         # 候选编号大小
+      font_point:  28                             # 候选字大小
+      label_font_point: 24                         # 候选编号大小
       text_color: 0x424242                    # 拼音行文字颜色
       back_color: 0xFFFFFF                    # 候选条背景色
       border_color: 0xFFFFFF                  # 边框色
@@ -147,8 +147,8 @@ patch:
       horizontal: true              # true横排，false竖排
       candidate_format: "%c %@ "    # 用 1/6 em 空格 U+2005 来控制编号 %c 和候选词 %@ 前后的空间
       corner_radius: 5                             # 窗口圆角 
-      font_point: 16                               # 候选文字大小
-      label_font_point: 14                         # 候选编号大小
+      font_point: 28                               # 候选文字大小
+      label_font_point: 24                         # 候选编号大小
       line_spacing: 10                              # 行间距(适用于竖排)
       font_face: "PingFangSC-Regular,HanaMinB"     # 候选词字体  
       text_color: 0xc2c2c2                     # 拼音行文字颜色
@@ -361,8 +361,8 @@ patch:
       name: 北方深色
       horizontal: true              # true横排，false竖排
       candidate_format: "%c %@ "    # 用 1/6 em 空格 U+2005 来控制编号 %c 和候选词 %@ 前后的空间
-      font_point: 16                           # 候选文字大小
-      label_font_point: 14                     # 候选编号大小
+      font_point: 28                           # 候选文字大小
+      label_font_point: 24                     # 候选编号大小
       corner_radius: 5                         # 窗口圆角
       line_spacing: 10                         # 行间距(适用于竖排)
       back_color: 0x473A33                     # 候选条背景色
